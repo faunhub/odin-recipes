@@ -1,0 +1,1 @@
+This is my first project with Odin, to give a quick description of the project, it is to build a very stripped down version of a website using only html. 
