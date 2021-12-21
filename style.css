@@ -1,0 +1,46 @@
+body {
+    background-color: #c3df9c;
+    font-family: 'Secular One', sans-serif;
+    margin: 10px;
+    color:rgb(76, 87, 6);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 80px;
+    text-align: center;
+}
+h3 {
+    font-size: 30px;
+    font-family: 'Helvetica';
+}
+
+div {
+    text-align: center;
+    font-size: 24px;
+}
+
+div.opening {
+    border-style: dashed;
+    padding: 10px;
+    border-width: 25px;
+    border-color: rgb(76, 87, 6);
+    overflow: auto;
+    
+}
+div.icons {
+    float: left;
+    margin: 10px;
+}
+
+.remy {
+    float: left;
+}
+
+.icons {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+
+
